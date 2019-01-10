@@ -3,6 +3,8 @@ import PointData from './PointData.js';
 /*
 Need a sorted list going along each axis, with entries for each point's X and Y position (along with a point ID).
 Each time a point is inserted, add its entry into the X and Y points list a
+
+Note: This isn't used, I was just experimenting with different collision detection broadphases.
  */
 
 function binarySearch(array, value, compare) {

@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dat.gui": "^0.7.5",
+    "node-sass": "^4.11.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.1"
+    "react-resizable": "^1.7.5",
+    "react-resize-detector": "^3.2.1",
+    "react-scripts": "2.1.1",
+    "three": "^0.99.0"
   },
   "scripts": {
     "start": "react-scripts start",
